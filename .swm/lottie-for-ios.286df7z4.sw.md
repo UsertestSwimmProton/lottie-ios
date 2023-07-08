@@ -1,13 +1,11 @@
 ---
 id: 286df7z4
-title: README.md
+title: Lottie for iOS
 file_version: 1.1.3
 app_version: 1.12.1
 ---
 
-# Lottie for iOS
-
-**View documentation, FAQ, help, examples, and more at** [**airbnb.io/lottie**](http://airbnb.io/lottie)
+**View documentation, FAQ, help, examples, and more at** [strongairbnb.io/lottie](http://airbnb.io/lottie)
 
 Lottie is a cross-platform library for iOS, macOS, tvOS, [Android](https://github.com/airbnb/lottie-android), and [Web](https://github.com/airbnb/lottie-web) that natively renders vector-based animations and art in realtime with minimal code.
 
@@ -36,8 +34,6 @@ Here is just a small sampling of the power of Lottie
 <br/>
 
 <div align="center"><img src="https://firebasestorage.googleapis.com/v0/b/swimm-dev-content/o/repositories%2FZ2l0aHViJTNBJTNBbG90dGllLWlvcyUzQSUzQXVzZXJ0ZXN0aW5nLXN3aW1t%2F4f3c84ae-0ad0-47ed-b44e-4013aa0b0a36.gif?alt=media&token=3be267ec-93d1-4db6-84cf-c9f1280e3c28" style="width:'50%'"/></div>
-
-<br/>
 
 <br/>
 
